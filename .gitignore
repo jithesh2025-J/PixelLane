@@ -1,0 +1,15 @@
+.venv/
+*.exe
+*.o
+*.bak*
+*backup*.cpp
+*_final_fix_*.cpp
+*_pre_filters_*.cpp
+input.jpg
+1.png
+.vscode/
+input.jpg_*.png
+output_*.png
+*_grayscale.png
+*_sobel.png
+*_gaussian.png
